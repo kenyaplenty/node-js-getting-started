@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+set -e # exit on error
+
+# Adding a pretty meaningless release script to just test them out
+echo "Application build completed..."
+sleep 1m
+echo "All done!"
